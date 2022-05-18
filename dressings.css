@@ -1,0 +1,86 @@
+        .container{
+            margin: 0 auto;
+            width: 80%;
+            text-align: center;
+        }
+        img{
+            margin: 30px 30px 0px 30px;
+            width:190px;
+            height:195px;
+        }
+        h1{
+            text-align: center;
+            color: white;
+        }
+        .top{
+            margin-top: 100px;
+        }
+        .fashionitem{
+            height: 270px;
+            width: 250px;
+            background-color: #f4f4f4;
+            display: inline-block;
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        /*class- selector */
+        .nav{
+            width: 99%;
+            height: 50px;
+            background-color: #ef9273;
+            position: fixed;
+            border-radius: 20px;
+            top: 0px;
+            display: inline;
+        }
+        .display{
+            display: inline-block;
+            margin-right: 30px;
+        }
+        a{
+            color: purple;
+            text-decoration: none;
+        }
+        p{
+            color: black;
+        }
+        ul{
+            list-style: none;
+            float:right;
+            margin-left:30px;
+        }
+        /* #footer{
+            height:100px;
+            background-color: #183a1d;
+        } */
+        body{
+            background-color:black; 
+        }
+        .text-centre{
+            background-color: #ef9273;
+            float:none;
+            text-align: center;
+            margin-left: 30px;
+        }
+        .footer{
+            background-color: #ef9273;
+            padding: 10px;
+        }
+        #footer{
+            color: black;
+            margin-left: 30px;
+        }
+        .strong{
+            bottom: none;
+        }
+        .header{
+            margin-left: 30px;
+            color: purple;
+            display: inline-block;
+            margin-top: 15px;
+        }
+        .buttom{
+            float: none;
+        }
